@@ -1,8 +1,8 @@
-#Gwent-Online
+#G-Card-Game
 
 #Introduction
 
-Gwent-Online is an open-source project of the card-game Gwent.
+G-Card-Game is an open-source project of the card-game Gwent-like.
 
 #Install
 ##- Requirements
